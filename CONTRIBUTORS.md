@@ -1,7 +1,8 @@
 Contributeurices et contributeurs
 ---------------------------------
 
-T'as contribué d'une manière ou d'une autre ? Met ton nom là dessous.
+T'as contribué d'une manière ou d'une autre ? 
+Mets ton nom là dessous.
 Merci !
 
 * carobis
