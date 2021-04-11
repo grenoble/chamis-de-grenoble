@@ -30,19 +30,26 @@ Contribuer c'est facile, rigolo et n'importe qui peut peut le faire !
   un compte rendu de "visite". Prend un exemple sur les comptes rendus
   de [visite](https://github.com/grenoble/chamis-de-grenoble/tree/master/entrepot/visites) qui existent.
   Fait un copier-coller d'un exemple et ensuite tu peux
-  [ajouter une nouvelle visite](https://github.com/grenoble/chamis-de-grenoble/new/propositions/entrepot/visites).
+  [créer une "issue"](https://github.com/grenoble/chamis-de-grenoble/issues/new).
   
 * **lancer un nouveau défi**. Si vous avez une idée de défi pourquoi ne
   pas le proposer à la communauté pour que tout le monde en profite ?
   Prend un exemple sur les [défis](https://github.com/grenoble/chamis-de-grenoble/tree/master/entrepot/defis) qui existent.
   Fait un copier-coller d'un exemple et ensuite tu peux
-  [ajouter un nouveau défi](https://github.com/grenoble/chamis-de-grenoble/new/propositions/entrepot/defis).
+  [crée une "issue"](https://github.com/grenoble/chamis-de-grenoble/issues/new).
   
-**Les formats sont trop compliqués ?**. Pas grave. Ecris jute le texte
-que tu veux et on arrangera tout ça :-)
+**LES FORMATIS SONT TROP COMPLIQUES ?**. Pas grave. Ecris jute le texte
+que tu veux et on arrangera tout ça :-). Un projet CyberChaMis est en
+cours pour simplifier tout ça et donner une belle interface pour les
+créer, lister, visualiser les défis et les 
   
-T'es un geek ? Tu sais faire ! Tout se passe dans le répertoire
-`entrepot`. Utilise la branche `propositions` plutôt que `master`.
+T'es un geek ?
+--------------
+Tu sais faire ! Tout se passe dans le répertoire
+`entrepot`. Fait un fork et ensuite des pulls request.
+Utilise la branche `propositions` plutôt que `master`.
+Plus d'information ici prochainement :-)
+
 
 
 
