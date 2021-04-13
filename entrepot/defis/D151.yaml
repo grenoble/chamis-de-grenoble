@@ -47,7 +47,8 @@ Epilogue :
   - "D’ailleurs j’aime qu’on me dise que l’on n’a pas vu mon mouton !"
 
 Materiels :
-  - Photo :
+  - Image :
+      Label : 1
       Description : Le manège
       Image : ../materiels/defis/D151-1.png
 
