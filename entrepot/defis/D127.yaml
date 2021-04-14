@@ -1,18 +1,35 @@
 Défi : D127
-Titre : Le Méchoui
+Titre : Le Méchoui et le l'animal
 Type : Enigme
 Auteur : carobis
 Date de création : 15/03/2021 16:03
 Date de modification : 01/04/2021 16:03
+Version : 2
 Arrêt : "HUBERT DUBEDOUT - MAISON DU TOURISME"
 Code arrêt : SEM_GENDUBEDOUT
 Mots clés : Mouton, StreetArt, Fun, Distanciel
-Points : 2
-Durée : 1mn
+Points : 14
+Durée : 15mn
+
+Prologue :
+  - Pour le présentiel regarder la vidéo avant d'aller sur place.
 
 Description :
   - Rendez vous à l'arrêt de bus "Maison du tourisme - Hubert Dubedout".
   - Cherche ce qu'il faut pour faire un méchoui.
+  - Indice : 1
+  - Question : 1
+  - Maintenant regarde la vidéo de sheepest à l'oeuvre.
+  - https://www.youtube.com/watch?v=ZbA7aPTmlDY&t=207s
+  - A la fin tu découvriras où est le deuxième mouton.
+  - Maintenant que tu sais où il doit être, cherche le mouton sur la cheminée.
+  - Indice : 2
+  - Indice : 3
+  - Le mouton à disparu :-(
+  - Question : 2
+  - Vas vers la poste la plus proche (très proche).
+  - En dessus de la poste et de la maison de la montagne tu trouveras un mouton montagnard.
+  - Question : 3
 
 Indices :
   - Indice :
@@ -21,13 +38,38 @@ Indices :
         - Détourne toi des bonbons.
         - Ce n'est pas bon pour les dents.
       Points : 1
+  - Indice :
+      Label : 2
+      Description :
+        - En fait c'est à moins de 5Om du premier mouton, mais pour le voir il faut s'éloigner...
+      Points : 3
+  - Indice :
+      Label : 3
+      Description :
+        - Place toi entre l'angle de monoprix et la maison du tourisme.
+
 
 Evaluation :
   - Question :
       Label : 1
       Description : Quel numéro ?
-      Secret : 26
+      Secret :
+      Points : 1
+  - Question :
+      Label : 2
+      Description : Quel est l'animal qui remplace le mouton ?
+      Secret :
+      Points : 7
+  - Question :
+      Label : 3
+      Description : 
+      Secret :
       Points : 2
+  - Question :
+      Label : 3
+      Description :
+      Secret :
+      Points : 4
 
 Epilogue :
   - Sheepest dit à propos de ses moutons :\
