@@ -1,44 +1,74 @@
 Défi : D189
-Titre : Et l'écureil alors ?
+Titre : Et l'écureuil alors ?
 Type : Enigme
 Auteur : carobis
 Date de création : 17/03/2021 12:03
 Date de modification : 22/03/2021 13:03
+Version : 2
 Arrêt : "VICTOR HUGO"
 Code arrêt : SEM_GENVICTHUGO
 Mots clés : Animaux, Distanciel, Fun, Patrimoine
-Points : 5
-Durée : 5mn
+Points : 16
+Durée : 15mn
 
 Description :
-  - C'est l'été. Tu as besoin de grand air.
-  - Demande à quelqu'un où est la maison de la montagne.
-  - Longe le tram pour y aller. Tu demanderas où on peut voir des chamois.
-  - Vas pas trop vite ! Les chamoix sont en plein centre ville !
-  - Grenoble c'est la ville du béton, mais c'est aussi la capitale des Alpes.
-  - Fait attention tu pourrais te faire écraser par des pachidermes !
+  - Arrivé.e à l'arrêt victor hugo ?
+  - Peut être as tu besoin d'argent ? Mets toi du coté de la banque.
+  - Un mouton te regarde ! Regarde le...
+  - Indice : 1
+  - Tu as vu le mouton ?
+  - Question : 1
+  - Suis le mouton comme font les moutons, tu veras des chamois !
+  - Les chamoix sont en plein centre ville !
+  - Question : 2
+  - Fait attention en regardant en haut.
+  - Tu pourrais te faire écraser par des pachidermes.
+  - Ils sont pas très loin.
+  - Question : 3
+  - Tout à l'heure il y avait des écureils. Tu as vu ?
+  - Question : 4
+
+Indices :
+  - Indice :
+      Label : 1
+      Description :
+        - Tu fumes ? Regarde où on tu peux des cigarettes.
+        - Maintenant sans bouger regarde à droite en haut.
+        - Les cheminées ne fume pas. Mais le mouton te regarde.
+      Points : 4
 
 Evaluation :
-  - Question :
-      Label : 1
-      Description : Combien d'écureuils (compter uniquement les tout plats) ?
-      Secret :
+  - Question:
+      Label: 1
+      Description: Quel est le nom du magazin sous le mouton ?
+      Secret:
+      Points: 4
   - Question :
     - Label : 2
     - Description : Combien de chamois ?
     - Secret :
+    - Points : 4
+  - Question:
+      Label: 3
+      Description: Combien d'éléphants ?
+      Secret:
+    - Points : 4
   - Question :
-      Label : 3
-      Description : Combien d'éléphants ?
+      Label : 4
+      Description : Combien d'écureuils (compter uniquement les tout plats) ?
       Secret :
+      Points : 4
+
+
 
 Epilogue :
-  - L'immeuble est appelé "immeuble des éléphants". Il date de 1903.
+  - Tu as vu l'immeuble dit "immeuble des éléphants"
+  - Cet immeuble date de 1903.
   - Il et a été construit pour le compte d'un important frabricant de ciment.
   - Le ciment a une histoire en béton à Grenoble.
   - En fait le béton est rééllement né à Grenoble, c'est pas une blague.
   - Le bicentenaire a d'ailleurs eu lieu en 2017.
-  - Vas faire udes  un tour du coté de la 'hotel de ville tu trouveras
+  - Vas faire  un tour du coté de l'hotel de ville tu trouveras plus d'informations.
 
 Materiels :
   - Lien :
