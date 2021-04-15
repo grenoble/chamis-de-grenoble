@@ -1,5 +1,5 @@
 Défi : D127
-Titre : Le Méchoui et le l'animal
+Titre : Le Méchoui et l'animal
 Type : Enigme
 Auteur : carobis
 Date de création : 15/03/2021 16:03
@@ -15,21 +15,31 @@ Prologue :
   - Pour le présentiel regarder la vidéo avant d'aller sur place.
 
 Description :
+  - Une amie t'as demandé de préparer un grand méchoui pour 100 personnes.
+  - On t'as dit qu'il y avait 4 moutons qui se courraient après autour de la maison du tourisme.
+  - 4 moutons dans un rayon de 100m.
   - Rendez vous à l'arrêt de bus "Maison du tourisme - Hubert Dubedout".
-  - Cherche ce qu'il faut pour faire un méchoui.
+  - Cherche un premier mouton.
   - Indice : 1
   - Question : 1
+  - Ca commence bien. Ton premier mouton.
+  - Mais un autre mouton te regardes, au loin.
+  - Regarde dans la direction du bureau de tabac.
+  - Regarde en hauteur...  Si tu vois pas tu peux t'avancer dans cette direction.
+  - Question : 2
   - Maintenant regarde la vidéo de sheepest à l'oeuvre.
   - https://www.youtube.com/watch?v=ZbA7aPTmlDY&t=207s
-  - A la fin tu découvriras où est le deuxième mouton.
-  - Maintenant que tu sais où il doit être, cherche le mouton sur la cheminée.
+  - A la fin tu découvriras où est le troisième mouton.
   - Indice : 2
   - Indice : 3
   - Le mouton à disparu :-(
-  - Question : 2
+  - Question : 3
   - Vas vers la poste la plus proche (très proche).
   - En dessus de la poste et de la maison de la montagne tu trouveras un mouton montagnard.
-  - Question : 3
+  - Question : 4
+  - Il y avait 4 moutons à l'origine. Un a disparu.
+  - Si tu as besain de faire un très grand méchoui tu peux aller chercher ailleurs.
+  - Des moutons il y en  a partout. Il suffit de les chercher.
 
 Indices :
   - Indice :
@@ -41,7 +51,8 @@ Indices :
   - Indice :
       Label : 2
       Description :
-        - En fait c'est à moins de 5Om du premier mouton, mais pour le voir il faut s'éloigner...
+        - En fait il est environ à 25m du premier mouton à vol d'oiseaux.
+        - Mais si tu veux le voir il faudra prendre du recul...
       Points : 3
   - Indice :
       Label : 3
@@ -55,6 +66,11 @@ Evaluation :
       Description : Quel numéro ?
       Secret :
       Points : 1
+  - Question :
+      Label : 2
+      Description : Quelle est la couleur qui est juste sous le mouton ?
+      Secret :
+      Points : 4
   - Question :
       Label : 2
       Description : Quel est l'animal qui remplace le mouton ?
