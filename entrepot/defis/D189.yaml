@@ -22,15 +22,15 @@ Evaluation :
   - Question :
       Label : 1
       Description : Combien d'écureuils (compter uniquement les tout plats) ?
-      Secret : 1
+      Secret :
   - Question :
     - Label : 2
     - Description : Combien de chamois ?
-    - Secret : 5
+    - Secret :
   - Question :
       Label : 3
       Description : Combien d'éléphants ?
-      Secret : 4
+      Secret :
 
 Epilogue :
   - L'immeuble est appelé "immeuble des éléphants". Il date de 1903.
