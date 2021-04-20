@@ -15,10 +15,10 @@ Prologue :
   - Pour le présentiel regarder la vidéo avant d'aller sur place.
 
 Description :
-  - Une amie t'as demandé de préparer un grand méchoui pour 100 personnes.
+  - Une amie t'as demandé de préparer un grand méchoui pour 120 personnes.
   - On t'as dit qu'il y avait 4 moutons qui se courraient après autour de la maison du tourisme.
   - 4 moutons dans un rayon de 100m.
-  - Rendez vous à l'arrêt de bus "Maison du tourisme - Hubert Dubedout".
+  - Rendez-vous à l'arrêt de bus "Hubert Dubedout - Maison du tourisme".
   - Cherche un premier mouton.
   - Indice : 1
   - Question : 1
@@ -82,7 +82,7 @@ Evaluation :
       Secret :
       Points : 2
   - Question :
-      Label : 3
+      Label : 4
       Description :
       Secret :
       Points : 4
@@ -93,6 +93,6 @@ Epilogue :
   - "C’est en feuilletant un magazine que j’ai trouvé la tête du mouton propre à une marque de skate peu connue des années 90."
 
 Commentaire :
-  - La première version était ennuyeuse : premier mouton trouvé immédiatement (1mn max)
+  - La première version était ennuyeuse :\ premier mouton trouvé immédiatement (1mn max)
   - La version 2 ajoute deux moutons dont un à découvrir avec une petite vidéo 3mn.
   -
