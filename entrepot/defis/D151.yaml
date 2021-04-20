@@ -12,26 +12,24 @@ Durée : 10mn
 
 Description :
   - Il tourne en rond pour le plaisir des petits. Cherche le.
-  - Si il n'y est pas demande à quelqu'un où il est quand il y est :-)
-  - Fait toi un selfie avec les 2 moutons en utilisant ton sens de la créativité.
-  - Si tu n'y arrives pas demande à quelqu'un qu'il/elle te tire un portrait.
-
-Indices :
-  - Indice :
-      Label : 1
-      Description : Pour tourner en rond les petits montent sur des chevaux, des cochons, etc.
-      Points : 3
-
-Evaluation :
+  - Indice:
+      Label: I1
+      Description:
+        - Pour tourner en rond les petits montent sur des chevaux, des voitures, ou encore des avions.
+      Points: 3
+  - Si il n'y est pas, demande à quelqu'un où il est, quand il y est :-)
+  - Cherche les deux moutons.
   - Question :
-      Label : 1
+      Label : Q1
       Description : Quelle est la première lettre du nom de la rue dans laquelle sont les moutons ?
       Secret :
       Points : 1
-
-  - Photo :
-      Label : 2
-      Description : Télécharge ton selfie :-)
+  - Fait toi un selfie avec les 2 moutons en utilisant ton sens de la créativité.
+  - Si tu n'y arrives pas demande à quelqu'un qu'il/elle te tire un portrait.
+  - DepotImage :
+      Label : DI1
+      Description :
+        - Télécharge ton selfie :-)
       Nombre : 1
       Points : 7
 
