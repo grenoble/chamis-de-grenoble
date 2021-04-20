@@ -4,10 +4,10 @@ Type : Enigme
 Auteur : carobis
 Date de création : 03/04/2021 22:42
 Date de modification : 03/04/2021 22:42
-Arrêt : "HUBERT DUBEDOUT - MAISON DU TOURISME"
+Arrêt : "CHAVANT"
 Code arrêt : SEM_GENCHAVANT
 Mots clés : Mouton, StreetArt, Fun, Distanciel, Graaly, EscapeGame, Presentiel
-Points : 43
+Points : 45
 Durée : 2h30
 
 Prologue :
@@ -18,23 +18,28 @@ Prologue :
 
 Description :
   - Vas du coté de l'oiseau tout plat.
-  - Regarde le renard tout plat.
-  - Prend la direction de la caserne.
-  - Trouve un troupeau de moutons et tourne à droite.
-  - Ouvre l'application Graly et choisi l'escape game "Street art" - bon jeu.
-
-Evaluation :
+  - Mais cherche aussi sur tes pas le renard tout plat.
   - Question :
-      Label : 1
-      Description : Quel animal était avec le renard ?
+      Label : Q1
+      Description :
+        - Qu'a le renard entre les deux yeux ?
       Secret :
       Points : 3
-
+  - Prend la direction de la caserne.
+  - Trouve un troupeau de moutons et tourne à droite.
   - Question :
-      Label : 2
-      Description : Quel est le nom de l'artise qui à pris les pinceaux de XXX TODO
+      Label : Q2
+      Description :
+        - Qu'y a t il à coté du troupeau de mouton ?
       Secret :
+      Points : 2
+  - Ouvre l'application Graaly et choisi l'escape game "Street art" - bon jeu.
+  - Question :
+      Label : Q3
+      Description :
+        - Quel outil a-t-il été emprunté à un artiste par un autre artiste ?
       Points : 40
+
 
 Commentaire :
   - Compléter la question 2 avec la bonne énigme. Il s'agit de la presque dernière énigme avec les lettres.
