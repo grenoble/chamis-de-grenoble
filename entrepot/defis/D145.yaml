@@ -13,27 +13,28 @@ Durée : 5mn
 Description :
   - Rendez vous à l'arrêt de bus "Grenoble - hôtel de ville".
   - Passe par "l'orangerie".
-  - Ca te donneras de l'énergie mais surtout ne dépasse pas les bornes !
+  - Indice :
+      Label : I1
+      Description :
+        - Vas du coté de Belledonne.
+  - Les oranges te donneront de l'énergie.
+  - Mais surtout ne dépasse pas les bornes !
   - Fatiguée ? T'as pas fait des bornes. Tu devrais avoir de l'énergie.
   - Reste sur le parking pour te recharger les piles.
-  - Cherche plutôt celui qui pourrait te donner matière à te protéger pendant l'hiver.
-  - Il est là. Il te regarde de haut. Il t'observe.
-  - Il bêle. "Je suis ceux que je suis. Et le vert, je le mange !"
-
-Indices :
   - Indice :
-      Label : 1
-      Description : Grenoble est un ville verte. Donc avec des voitures vertes.
-      Points : 2
+      Label : I2
+      Description: Grenoble est un ville verte. Donc avec des voitures vertes.
+      Points: 2
   - Indice :
-      Label : 2
+      Label : I3
       Description : A l'angle de l'orangerie, regarde l'autre angle.
       Points : 2
-
-Evaluation :
+  - Cherche celui qui pourrait te donner matière à te protéger pendant l'hiver.
+  - Il est là. Il te regarde de haut. Il t'observe.
+  - Il bêle. "Je suis ceux que je suis. Et le vert, je le mange !"
   - Question :
-      Label : 1
-      Description : Combien de boucles sous mon cou ?
+      Label : Q1
+      Description : Combien de boucles sous son cou ?
       Secret :
       Points : 5
 
@@ -47,8 +48,6 @@ Epilogue :
   - Oublie le mouton. Retourne toi.
   - Derrière toi tu vois la première tour en béton du monde ! (1924)
   - Tour construite pour une exposition internationale [1].
-
-Materiels :
   - Image :
       Label : 1
       Description : Affiche de l'exposition de la houille blanche en 1924
