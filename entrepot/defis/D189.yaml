@@ -15,51 +15,43 @@ Description :
   - Arrivé.e à l'arrêt victor hugo ?
   - Peut être as tu besoin d'argent ? Mets toi du coté de la banque.
   - Un mouton te regarde ! Regarde le...
-  - Indice : 1
-  - Tu as vu le mouton ?
-  - Question : 1
-  - Suis le mouton comme font les moutons, tu veras des chamois !
-  - Les chamoix sont en plein centre ville !
-  - Question : 2
-  - Fait attention en regardant en haut.
-  - Tu pourrais te faire écraser par des pachidermes.
-  - Ils sont pas très loin.
-  - Question : 3
-  - Tout à l'heure il y avait des écureils. Tu as vu ?
-  - Question : 4
-
-Indices :
   - Indice :
-      Label : 1
+      Label : I1
       Description :
         - Tu fumes ? Regarde où tu peux acheter des cigarettes.
         - Maintenant sans bouger regarde à droite en haut.
         - Les cheminées ne fument pas. Mais le mouton te regarde.
       Points : 4
-
-Evaluation :
-  - Question:
-      Label: 1
-      Description: Quel est le nom du magazin sous le mouton ?
-      Secret:
-      Points: 4
+  - Tu as vu le mouton ?
   - Question :
-    - Label : 2
-    - Description : Combien de chamois ?
-    - Secret :
-    - Points : 4
-  - Question:
-      Label: 3
-      Description: Combien d'éléphants ?
-      Secret:
-    - Points : 4
-  - Question :
-      Label : 4
-      Description : Combien d'écureuils (compter uniquement les tout plats) ?
+      Label : Q1
+      Description :
+        - Quel est le nom du magazin sous le mouton ?
       Secret :
       Points : 4
-
-
+  - Suis le mouton comme font les moutons, tu veras des chamois !
+  - Les chamoix sont en plein centre ville !
+  - Question :
+      Label : Q2
+      Description :
+        - Combien y-a-t'il de chamois ?
+      Secret :
+      Points : 4
+  - Fait attention en regardant en haut.
+  - Tu pourrais te faire écraser par des pachidermes.
+  - Ils sont pas très loin.
+  - Question:
+      Label: Q3
+      Description:
+        - Combien y-a-t'il d'éléphants ?
+      Secret:
+      Points : 4
+  - Tout à l'heure il y avait des écureils. Tu as vu ?
+  - Question :
+      Label : Q4
+      Description : Combien y-a-t'il d'écureuils (compter uniquement les tout plats) ?
+      Secret :
+      Points : 4
 
 Epilogue :
   - Tu as vu l'immeuble dit "immeuble des éléphants"
@@ -69,8 +61,6 @@ Epilogue :
   - En fait le béton est rééllement né à Grenoble, c'est pas une blague.
   - Le bicentenaire a d'ailleurs eu lieu en 2017.
   - Vas faire  un tour du coté de l'hotel de ville tu trouveras plus d'informations.
-
-Materiels :
   - Lien :
       Label : 1
       Description : Histoire du béton à Grenoble
