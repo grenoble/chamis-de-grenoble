@@ -24,9 +24,9 @@ Description :
       Description : Quelle est la première lettre du nom de la rue dans laquelle sont les moutons ?
       Secret :
       Points : 1
-  - Fait toi un selfie avec les 2 moutons en utilisant ton sens de la créativité.
+  - Fais toi un selfie avec les 2 moutons en utilisant ton sens de la créativité.
   - Si tu n'y arrives pas demande à quelqu'un qu'il/elle te tire un portrait.
-  - DepotImage :
+  - DepotDImages :
       Label : DI1
       Description :
         - Télécharge ton selfie :-)
