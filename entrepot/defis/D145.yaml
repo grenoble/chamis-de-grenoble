@@ -47,8 +47,8 @@ Epilogue :
   - Il y a des centaines de moutons à grenoble.
   - Il y en a aussi dans de nombreuses villes autour du monde !
   - Sheepest dit :\
-  - "A Paris ou à New-York, je recherche les coins reculés de la ville".
-  - "Les endroits qui sont subtils, qui ont du sens et qui durent dans le temps".
+  - << A Paris ou à New-York, je recherche les coins reculés de la ville. >>
+  - << Les endroits qui sont subtils, qui ont du sens et qui durent dans le temps. >>
   - Oublie le mouton. Retourne toi.
   - Derrière toi tu vois la première tour en béton du monde ! (1924)
   - Tour construite pour une exposition internationale [1].
@@ -56,5 +56,5 @@ Epilogue :
       Label : I1
       Description :
         - Affiche de l'exposition de la houille blanche en 1924
-      Image : defis/D145-I1.png
+      Fichier : defis/D145-I1.png
 
