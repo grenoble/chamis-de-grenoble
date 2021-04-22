@@ -41,7 +41,8 @@ Description :
       Points : 3
   - Question :
       Label : Q2
-      Description : Quelle est la couleur qui est juste sous le museau du mouton ?
+      Description :
+        - Quelle est la couleur qui est juste sous le museau du mouton ?
       Secret :
       Points : 4
   - Maintenant regarde la vidéo de sheepest à l'oeuvre.
@@ -57,11 +58,13 @@ Description :
       Label : I4
       Description :
         - Place toi entre l'angle de monoprix et la maison du tourisme.
-  - Zut ! Le mouton à disparu :-(
+  - Zut !
       Points : 3
+  - Le mouton à disparu :-(
   - Question :
       Label : Q3
-      Description : Quel est l'animal qui remplace le mouton ?
+      Description :
+        - Quel est l'animal bleu qui remplace le mouton ?
       Secret :
       Points : 7
   - Maintenant vas vers la poste la plus proche (très proche).
@@ -69,17 +72,18 @@ Description :
   - Question :
       Label : Q4
       Description :
+        - Quelle partie du corps du personnage est au niveau du mouton ?
       Secret :
       Points : 4
-  - Il y avait 4 moutons à l'origine. Un a disparu.
+  - Bravo. Tu as trouvé 3 moutons !
   - Si tu as besoin de faire un très grand méchoui tu peux aller chercher ailleurs.
   - Des moutons il y en plusieurs centaines à Grenoble partout.
   - Il suffit de les chercher...
 
 Epilogue :
   - Sheepest dit à propos de ses moutons :\
-  - "Quand j’ai eu l’idée de faire des moutons je ne savais pas comment j’allais dessiner les dessiner."
-  - "C’est en feuilletant un magazine que j’ai trouvé la tête du mouton propre à une marque de skate peu connue des années 90."
+  - << Quand j’ai eu l’idée de faire des moutons je ne savais pas comment j’allais dessiner les dessiner. >>
+  - << C’est en feuilletant un magazine que j’ai trouvé la tête du mouton propre à une marque de skate peu connue des années 90. >>
 
 Commentaire :
   - La première version était ennuyeuse :\ premier mouton trouvé immédiatement (1mn max)
