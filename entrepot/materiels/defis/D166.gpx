@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx version="1.1" creator="Visorando" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+ <metadata>
+  <name>Randonnée du 22/04/2021 à 23:13</name>
+  <link href="https://www.visorando.com/randonnee-/8139842">
+  <text>https://www.visorando.com/randonnee-/8139842</text></link>
+ </metadata>
+ <trk>
+  <name>Randonnée du 22/04/2021 à 23:13</name>
+  <trkseg>
+   <trkpt lat="45.192258" lon="5.771045">
+    <ele>211</ele>
+    <time>2021-04-22T23:13:47+02:00</time>
+   </trkpt>
+   <trkpt lat="45.192767" lon="5.771027">
+    <ele>211</ele>
+    <time>2021-04-22T23:13:52+02:00</time>
+   </trkpt>
+   <trkpt lat="45.193200" lon="5.770856">
+    <ele>211</ele>
+    <time>2021-04-22T23:13:57+02:00</time>
+   </trkpt>
+   <trkpt lat="45.193168" lon="5.770332">
+    <ele>211</ele>
+    <time>2021-04-22T23:14:02+02:00</time>
+   </trkpt>
+   <trkpt lat="45.193149" lon="5.769610">
+    <ele>211</ele>
+    <time>2021-04-22T23:14:07+02:00</time>
+   </trkpt>
+   <trkpt lat="45.193079" lon="5.768707">
+    <ele>211</ele>
+    <time>2021-04-22T23:14:12+02:00</time>
+   </trkpt>
+   <trkpt lat="45.193066" lon="5.768012">
+    <ele>211</ele>
+    <time>2021-04-22T23:14:17+02:00</time>
+   </trkpt>
+   <trkpt lat="45.192951" lon="5.767254">
+    <ele>211</ele>
+    <time>2021-04-22T23:14:22+02:00</time>
+   </trkpt>
+   <trkpt lat="45.192646" lon="5.766730">
+    <ele>211</ele>
+    <time>2021-04-22T23:14:27+02:00</time>
+   </trkpt>
+   <trkpt lat="45.192379" lon="5.766712">
+    <ele>211</ele>
+    <time>2021-04-22T23:14:32+02:00</time>
+   </trkpt>
+   <trkpt lat="45.191959" lon="5.766694">
+    <ele>211</ele>
+    <time>2021-04-22T23:14:37+02:00</time>
+   </trkpt>
+  </trkseg>
+ </trk></gpx>

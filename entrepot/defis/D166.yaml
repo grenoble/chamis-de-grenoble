@@ -1,0 +1,39 @@
+Défi : D165
+Titre : Arboretum planétaire
+Type : Enigme
+Auteur : nomoldu
+Date de création : 22/04/2021 22:03
+Date de modification : 22/04/2021 22:25
+Version : 1
+Arrêt : "BIBLIOTHÈQUES UNIVERSITAIRES"
+Code arrêt : SEM_GENBIBLIUNI
+Trace : defis/D166.gpx
+Mots clés : Presentiel, Fun, StreetArt
+Points : 6
+Durée : 10mn
+
+Prologue :
+  - Sur ce parcours élémentaire tu trouveras deux oeuvres de Street Art
+
+Description :
+  - Arrivé.e à l'arrêt Bibliothèques Universitaire ?
+  - Va du coté de la facade peinte.
+  - Question :
+      Label : Facade_Q
+      Description :
+        - Combien y a-t-il de tuyaux parallèles peints en bleu très foncé ?
+      Secret :
+      Points : 2
+  - En allant vers le Vercors cherche la prochaine oeuvre de Street Art.
+  - Question :
+      Label : Globe_Q1
+      Description :
+        - De quelle couleur est le symbole de recyclage ?
+      Secret :
+      Points : 2
+  - Question :
+      Label : Globe_Q2
+      Description :
+        - Quelle école a réalisé cette oeuvre ?
+      Secret :
+      Points : 2
