@@ -17,24 +17,28 @@ Description :
       Label : I1
       Description :
         - Vas du coté de Belledonne.
+      Points : 1
   - Les oranges te donneront de l'énergie.
   - Mais surtout ne dépasse pas les bornes !
   - Fatiguée ? T'as pas fait des bornes. Tu devrais avoir de l'énergie.
   - Reste sur le parking pour te recharger les piles.
   - Indice :
       Label : I2
-      Description: Grenoble est un ville verte. Donc avec des voitures vertes.
+      Description:
+        - Grenoble est un ville verte. Donc avec des voitures vertes.
       Points: 2
   - Indice :
       Label : I3
-      Description : A l'angle de l'orangerie, regarde l'autre angle.
+      Description :
+        - A l'angle de l'orangerie, regarde l'autre angle.
       Points : 2
   - Cherche celui qui pourrait te donner matière à te protéger pendant l'hiver.
   - Il est là. Il te regarde de haut. Il t'observe.
   - Il bêle. "Je suis ceux que je suis. Et le vert, je le mange !"
   - Question :
       Label : Q1
-      Description : Combien de boucles sous son cou ?
+      Description :
+        - Combien de boucles sous son cou ?
       Secret :
       Points : 5
 
@@ -50,6 +54,7 @@ Epilogue :
   - Tour construite pour une exposition internationale [1].
   - Image :
       Label : 1
-      Description : Affiche de l'exposition de la houille blanche en 1924
+      Description :
+        - Affiche de l'exposition de la houille blanche en 1924
       Image : ../materiels/defis/D145-1.png
 
