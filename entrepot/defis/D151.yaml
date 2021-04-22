@@ -21,7 +21,8 @@ Description :
   - Cherche les deux moutons.
   - Question :
       Label : Q1
-      Description : Quelle est la première lettre du nom de la rue dans laquelle sont les moutons ?
+      Description :
+        - Quelle est la première lettre du nom de la rue dans laquelle sont les moutons ?
       Secret :
       Points : 1
   - Fais toi un selfie avec les 2 moutons en utilisant ton sens de la créativité.
@@ -35,19 +36,20 @@ Description :
 
 Epilogue :
   - Sheepest dit à propos de ses moutons :\
-  - "C’est un mouton qui parle de la société. Il est observateur et dénonciateur".
-  - "Il sert à faire lever les yeux au ciel".
-  - "Je n’ai pas une volonté d’égayer la ville avec ce mouton ‘sympa’".
-  - "Je cherche plutôt d’aiguiser des consciences".
-  - "Les gens fonctionnent avec le premier plan et marchent la tête baissée."
-  - "Si je mettais le mouton en bas, le ‘troupeau’ le verrait".
-  - "Ce serait de la facilité".
-  - "D’ailleurs j’aime qu’on me dise que l’on n’a pas vu mon mouton !"
+  - << C’est un mouton qui parle de la société. Il est observateur et dénonciateur".
+  - << Il sert à faire lever les yeux au ciel >>.
+  - << Je n’ai pas une volonté d’égayer la ville avec ce mouton ‘sympa’ >>.
+  - << Je cherche plutôt d’aiguiser des consciences >>.
+  - << Les gens fonctionnent avec le premier plan et marchent la tête baissée >>.
+  - << Si je mettais le mouton en bas, le ‘troupeau’ le verrait >>.
+  - << Ce serait de la facilité >>.
+  - << D’ailleurs j’aime qu’on me dise que l’on n’a pas vu mon mouton ! >>
 
 Materiels :
   - Image :
       Label : 1
-      Description : Le manège
+      Description :
+        - Le manège
       Image : ../materiels/defis/D151-1.png
 
 Commentaire :
