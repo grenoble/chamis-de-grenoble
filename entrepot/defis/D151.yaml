@@ -12,9 +12,9 @@ Durée : 10mn
 
 Description :
   - Il tourne en rond pour le plaisir des petits. Cherche le.
-  - Indice:
-      Label: I1
-      Description:
+  - Indice  :
+      Label : I1
+      Description :
         - Pour tourner en rond les petits montent sur des chevaux, des voitures, ou encore des avions.
       Points: 3
   - Si il n'y est pas, demande à quelqu'un où il est, quand il y est :-)
@@ -36,7 +36,7 @@ Description :
 
 Epilogue :
   - Sheepest dit à propos de ses moutons :\
-  - << C’est un mouton qui parle de la société. Il est observateur et dénonciateur".
+  - << C’est un mouton qui parle de la société. Il est observateur et dénonciateur >>.
   - << Il sert à faire lever les yeux au ciel >>.
   - << Je n’ai pas une volonté d’égayer la ville avec ce mouton ‘sympa’ >>.
   - << Je cherche plutôt d’aiguiser des consciences >>.
@@ -44,13 +44,6 @@ Epilogue :
   - << Si je mettais le mouton en bas, le ‘troupeau’ le verrait >>.
   - << Ce serait de la facilité >>.
   - << D’ailleurs j’aime qu’on me dise que l’on n’a pas vu mon mouton ! >>
-
-Materiels :
-  - Image :
-      Label : 1
-      Description :
-        - Le manège
-      Image : ../materiels/defis/D151-1.png
 
 Commentaire :
   -  Pourrait être aussi associé à l'arrêt "Maison du tourisme - Hubert Dubedout"
