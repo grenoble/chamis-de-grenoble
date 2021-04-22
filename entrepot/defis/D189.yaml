@@ -49,7 +49,8 @@ Description :
   - Tout à l'heure il y avait des écureils. Tu as vu ?
   - Question :
       Label : Q4
-      Description : Combien y-a-t'il d'écureuils (compter uniquement les tout plats) ?
+      Description :
+        - Combien y-a-t'il d'écureuils (compter uniquement les tout plats) ?
       Secret :
       Points : 4
 
@@ -63,5 +64,6 @@ Epilogue :
   - Vas faire  un tour du coté de l'hotel de ville tu trouveras plus d'informations.
   - Lien :
       Label : 1
-      Description : Histoire du béton à Grenoble
+      Description :
+        - Histoire du béton à Grenoble
       URL : https://www.placegrenet.fr/2017/08/03/200-ans-de-beton-grenoble-celebre-linvention-de-louis-vicat/148668
