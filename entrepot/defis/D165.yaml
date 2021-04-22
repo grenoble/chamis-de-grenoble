@@ -8,9 +8,9 @@ Version : 1
 Arrêt : "BIBLIOTHÈQUES UNIVERSITAIRES"
 Code arrêt : SEM_GENBIBLIUNI
 Trace : defis/D165.gpx
-Mots clés : Geocaching, Presentiel, Fun, Promenade, Patrimoine
-Points : 92
-Durée : 2h
+Mots clés : Geocaching, Presentiel, Fun, Promenade
+Points : 72
+Durée : 1h30
 
 Prologue :
   - Ce parcours permet de s'initier au Geocaching.
@@ -114,23 +114,5 @@ Description :
           - Quelle est la forme de la cache ?
         Secret :
         Points : 30
-  - Une dernière cache, pas trop difficile ?
-  - Vas à la bibliothèque de sciences coté ENSIMAG, près des fenêtres.
-  - Position :
-      Label : Sciences_P
-      Description :
-        - Geocache "Bibliothèque universitaire des sciences"
-      Coordonnees : 45.19275, 5.76878
-      URL : https://www.geocaching.com/geocache/GC6W5J6
-  - Indice :
-      Label : Sciences_I
-      Description :
-        - << Soyez délicats avec la nature, et elle vous le rendra. >>
-      Points : 5
-  - Question :
-      Label : Sciences_Q
-      Description :
-        - Quelle est la couleur de la cache ?
-      Secret :
-      Points : 20
   - Ca y est. L'aventure est finie :-)
+
