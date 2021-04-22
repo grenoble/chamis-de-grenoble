@@ -29,7 +29,8 @@ Description :
   - Ca commence bien. Ton premier mouton !
   - Question :
       Label : Q1
-      Description : Quel numéro ?
+      Description :
+        - Quel numéro ?
       Secret :
       Points : 1
   - Un autre mouton te regarde, au loin. Sans bouger cherche le.
