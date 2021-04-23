@@ -1,0 +1,31 @@
+Défi : D167
+Titre : Le prisonnier
+Type : Enigme
+Auteur : nomoldu
+Date de création : 23/04/2021 09:20
+Date de modification : 23/04/2021 09:20
+Version : 1
+Arrêt : "CLINIQUE BELLEDONNE"
+Code arrêt : SEM_GENCLINBELD
+Mots clés : Distanciel, Presentiel, Fun, StreetArt
+Points : 4
+Durée : 10mn
+
+Prologue :
+  - Sur ce parcours élémentaire tu trouveras deux oeuvres de Street Art
+
+Description :
+  - Arrivé.e à l'arrêt Clinique belledonne ?
+  - Tu vois cet oiseau qui a tout ce qu'il faut mais que ne peut pas se libérer ?
+  - Cherche un animal qui pourrait l'aider.
+  - Indice :
+      Label : Pigeon_I
+      Description :
+        - On te donnes la solution contre de l'argent. Va en chercher...
+      Points : 3
+  - Question :
+      Label : Pigeon_Q
+      Description :
+        - Qu'y a-t-il au milieu des nuages ?
+      Secret :
+      Points : 4
