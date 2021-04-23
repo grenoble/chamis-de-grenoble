@@ -1,0 +1,65 @@
+Défi : D168
+Titre : Le diable
+Type : Enigme
+Auteur : nomoldu
+Date de création : 23/04/2021 09:45
+Date de modification : 23/04/2021 09:45
+Version : 1
+Arrêt : "BERRIAT-LE MAGASIN"
+Code arrêt : SEM_GENBERRIAT
+Mots clés : Distanciel, Presentiel, Fun, StreetArt
+Points : 20
+Durée : 10mn
+
+Prologue :
+  - Sur ce parcours élémentaire tu trouveras deux oeuvres de Street Art
+
+Description :
+  - Arrivé.e à l'arrêt Berriat - Le magazin.
+  - Cherches autour de l'arrêt. Quelqu'un regarde les passants.
+  - Indice :
+      Label : Regard_Q
+      Description :
+        - 132+13 ?
+      Points : 3
+  - Question :
+      Label : Regard_Q
+      Description :
+        - Quel est le nom de l'artiste ?
+      Secret :
+      Points : 4
+  - Avance dans la rue. Des diaments sont tombés par terre.
+  - Indice :
+      Label : Diamants_Q
+      Description :
+        - Il a un as de pique sur le nez.
+      Points : 3
+  - Question :
+      Label : Diamants_Q
+      Description :
+        - Combien y en a-t-il ?
+      Secret :
+      Points : 4
+  - Première à gauche.
+  - Première à gauche.
+  - Il est moche et en plus il fume.
+  - Question :
+      Label : Fumeur_Q
+      Description :
+        - Combien de dents ?
+      Secret :
+      Points : 4
+  - Dans le coin est passé un grapheur qui est malheureux.
+  - Question :
+      Label : Malheur_Q1
+      Description :
+        - Depuis combien de mois ?
+      Secret :
+      Points : 4
+  - Autre montre
+  - Question :
+      Label : Rouge_Q1
+      Description :
+        - Combien de dents ?
+      Secret :
+      Points : 4
