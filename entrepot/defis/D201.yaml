@@ -1,0 +1,26 @@
+Défi : D201
+Titre : Training - Croix du Pâtre - Guillaume
+Auteur : guillaume
+Date de création : 30/04/2021 12:00
+Date de modification : 03/05/2021 09:30
+Arrêt : "CROIX DU PÂTRE"
+Code arrêt : SEM_GENCXPATRE
+Mots clés : Sport, Course, Training, Presentiel
+Points: 50
+Durée : 30mn
+
+Description :
+  - Vous arrivez à l'arrêt de bus.
+  - Mettez votre chronomètre en marche et partez pour la bibliothèque universitaire.
+  - Allez jusqu'à la bibliothèque universitaire avant la fin du temps imparti !
+  - Vous êtes arrivé à la bibliothèque universitaire, BRAVO!!!
+  - Question :
+      Label : Q1
+      Description :
+        - Combien de temps depuis la croix du pâtre (en minutes) ?
+      Secret :
+      Points : 50
+
+Commentaire :
+  - Possible ou impossible ?
+
